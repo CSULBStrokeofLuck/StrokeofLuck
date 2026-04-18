@@ -1,0 +1,118 @@
+cwebp -q 80 2Andrew.png -o 2Andrew.webp -lossless
+cwebp -q 80 3Misaki.png -o 3Misaki.webp -lossless
+cwebp -q 80 4Michael.png -o 4Michael.webp -lossless
+cwebp -q 80 5May.png -o 5May.webp -lossless
+cwebp -q 80 6Aeri.png -o 6Aeri.webp -lossless
+cwebp -q 80 7Cristina.png -o 7Cristina.webp -lossless
+cwebp -q 80 8Leah.png -o 8Leah.webp -lossless
+cwebp -q 80 9Sunny.png -o 9Sunny.webp -lossless
+cwebp -q 80 10Kari.png -o 10Kari.webp -lossless
+cwebp -q 80 11Lauren.png -o 11Lauren.webp -lossless
+cwebp -q 80 12brooke.png -o 12brooke.webp -lossless
+cwebp -q 80 13Natalia.png -o 13Natalia.webp -lossless
+cwebp -q 80 15Chanel.png -o 15Chanel.webp -lossless
+cwebp -q 80 16Ray.png -o 16Ray.webp -lossless
+cwebp -q 80 17Rosabella.png -o 17Rosabella.webp -lossless
+cwebp -q 80 20Teddy.png -o 20Teddy.webp -lossless
+cwebp -q 80 21Audrey.png -o 21Audrey.webp -lossless
+cwebp -q 80 22Jayson.png -o 22Jayson.webp -lossless
+cwebp -q 80 23Tulasi.png -o 23Tulasi.webp -lossless
+cwebp -q 80 24Andy.png -o 24Andy.webp -lossless
+cwebp -q 80 25Marcus.png -o 25Marcus.webp -lossless
+cwebp -q 80 26Brianna.png -o 26Brianna.webp -lossless
+cwebp -q 80 27SunnyM.png -o 27SunnyM.webp -lossless
+cwebp -q 80 28dub.png -o 28dub.webp -lossless
+
+
+cwebp -q 80 AeriBiter_InstaSlides-1.png -o AeriBiter_InstaSlides-1.webp -lossless
+cwebp -q 80 AeriBiter_InstaSlides-2.png -o AeriBiter_InstaSlides-2.webp -lossless
+cwebp -q 80 AeriBiter_InstaSlides-3.png -o AeriBiter_InstaSlides-3.webp -lossless
+cwebp -q 80 AeriBiter_InstaSlides-4.png -o AeriBiter_InstaSlides-4.webp -lossless
+cwebp -q 80 AeriBiter_InstaSlides-5.png -o AeriBiter_InstaSlides-5.webp -lossless
+cwebp -q 80 AeriBiter_InstaSlides-6.png -o AeriBiter_InstaSlides-6.webp -lossless
+cwebp -q 80 AeriBiter_InstaSlides-7.png -o AeriBiter_InstaSlides-7.webp -lossless
+cwebp -q 80 AeriBiter_InstaSlides-8.png -o AeriBiter_InstaSlides-8.webp -lossless
+cwebp -q 80 AeriBiter_InstaSlides-9.png -o AeriBiter_InstaSlides-9.webp -lossless
+
+cwebp -q 80 art1.png -o art1.webp -lossless
+cwebp -q 80 art2.png -o art2.webp -lossless
+cwebp -q 80 art3.png -o art3.webp -lossless
+cwebp -q 80 art4.png -o art4.webp -lossless
+cwebp -q 80 art5.png -o art5.webp -lossless
+cwebp -q 80 art6.png -o art6.webp -lossless
+cwebp -q 80 art7.png -o art7.webp -lossless
+cwebp -q 80 art8.png -o art8.webp -lossless
+cwebp -q 80 art9.png -o art9.webp -lossless
+cwebp -q 80 art10.png -o art10.webp -lossless
+cwebp -q 80 art11.png -o art11.webp -lossless
+cwebp -q 80 art12.png -o art12.webp -lossless
+cwebp -q 80 art13.png -o art13.webp -lossless
+cwebp -q 80 art14.png -o art14.webp -lossless
+cwebp -q 80 art15.png -o art15.webp -lossless
+
+
+cwebp -q 80 010.png -o 010.webp -lossless
+cwebp -q 80 012.png -o 012.webp -lossless
+
+cwebp -q 80 2nd.jpg -o 2nd.webp -lossless
+cwebp -q 80 3rd.jpg -o 3rd.webp -lossless
+cwebp -q 80 4th.jpg -o 4th.webp -lossless
+cwebp -q 80 5th.jpg -o 5th.webp -lossless
+cwebp -q 80 brookea1.jpg -o brookea1.webp -lossless
+cwebp -q 80 brookea2.jpg -o brookea2.webp -lossless
+cwebp -q 80 brookea3.jpg -o brookea3.webp -lossless
+cwebp -q 80 brookea4.jpg -o brookea4.webp -lossless
+cwebp -q 80 brookea5.jpg -o brookea5.webp -lossless
+
+cwebp -q 80 0003.png -o 0003.webp -lossless
+cwebp -q 80 0004.png -o 0004.webp -lossless
+cwebp -q 80 0005.png -o 0005.webp -lossless
+cwebp -q 80 0006.png -o 0006.webp -lossless
+cwebp -q 80 0007.png -o 0007.webp -lossless
+cwebp -q 80 0008.png -o 0008.webp -lossless
+
+
+cwebp -q 80 Leah_Portfolio_2.png -o Leah_Portfolio_2.webp -lossless
+cwebp -q 80 Leah_Portfolio_3.png -o Leah_Portfolio_3.webp -lossless
+cwebp -q 80 Leah_Portfolio_7.png -o Leah_Portfolio_7.webp -lossless
+cwebp -q 80 Leah_Portfolio_8.png -o Leah_Portfolio_8.webp -lossless
+cwebp -q 80 Leah_Portfolio_9.png -o Leah_Portfolio_9.webp -lossless
+cwebp -q 80 Leah_Portfolio_11.png -o Leah_Portfolio_11.webp -lossless
+cwebp -q 80 Leah_Portfolio_15.png -o Leah_Portfolio_15.webp -lossless
+
+
+
+cwebp -q 80 Slide2.png -o Slide2.webp -lossless
+cwebp -q 80 Slide3.png -o Slide3.webp -lossless
+cwebp -q 80 Slide4.png -o Slide4.webp -lossless
+cwebp -q 80 Slide5.png -o Slide5.webp -lossless
+cwebp -q 80 Slide6.png -o Slide6.webp -lossless
+cwebp -q 80 Slide7.png -o Slide7.webp -lossless
+
+cwebp -q 80 Artwork_02.png -o Artwork_02.webp -lossless
+cwebp -q 80 Artwork_03.png -o Artwork_03.webp -lossless
+cwebp -q 80 Artwork_04.png -o Artwork_04.webp -lossless
+cwebp -q 80 Artwork_05.png -o Artwork_05.webp -lossless
+cwebp -q 80 Artwork_06.png -o Artwork_06.webp -lossless
+cwebp -q 80 Artwork_07.png -o Artwork_07.webp -lossless
+cwebp -q 80 Artwork_08.png -o Artwork_08.webp -lossless
+
+cwebp -q 80 3_Kin.png -o 3_Kin.webp -lossless
+cwebp -q 80 4_Kin.png -o 4_Kin.webp -lossless
+cwebp -q 80 5_Kin.png -o 5_Kin.webp -lossless
+cwebp -q 80 6_Kin.png -o 6_Kin.webp -lossless
+cwebp -q 80 7_Kin.png -o 7_Kin.webp -lossless
+cwebp -q 80 8_Kin.png -o 8_Kin.webp -lossless
+cwebp -q 80 9_Kin.png -o 9_Kin.webp -lossless
+cwebp -q 80 10_Kin.png -o 10_Kin.webp -lossless
+
+
+
+cwebp -q 80 art3.png -o art3.webp -lossless
+
+cwebp -q 80 art6.png -o art6.webp -lossless
+cwebp -q 80 art7.png -o art7.webp -lossless
+cwebp -q 80 art8.png -o art8.webp -lossless
+cwebp -q 80 art10.png -o art10.webp -lossless
+
+

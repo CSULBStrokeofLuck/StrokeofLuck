@@ -1,0 +1,222 @@
+body, html {
+          cursor: url("cursor.png"), pointer;
+      }
+          a{
+              cursor: url("cursor.png"), pointer;
+          }
+body {
+cursor: url("cursor.png"), auto;
+background-image: url("background.png");
+background-color: rgba(235, 115, 17, 0.8);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed; 
+max-width: 100%;
+overflow-x: hidden;
+font-family: 'futura'; 
+}
+
+.biotitle {
+	font-size: 2.5em;
+
+}
+
+.biotext {
+	font-size: 1.9em;
+
+}
+
+
+.link {
+	width: 225px;
+	height: auto;
+	border-radius: 10px;
+	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.link:hover {
+Transform: scale(1.2);
+Transform-origin: center;
+}
+
+ #panel { 
+ margin-top: min(120vw, 610px);
+position: absolute;
+    top: 0;
+    left: -5%;
+    width: 110%; 
+    min-height: 100%; 
+    height: auto;   
+    background-image: url("wood.png");
+    background-repeat: repeat-y;
+    background-size: contain; 
+    z-index: -98;
+    box-shadow: inset 0 0 10px 0 rgba(247, 219, 147, 0.5);
+ }
+
+#title {
+	width: 39vw;
+	min-width: 400px;
+	left: 50%;
+	transform: translateX(-50%);
+	position: fixed;
+	z-index: -99;
+	filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.5));
+}
+
+#title img{
+	width: 100%;
+	height: auto;
+	display: block;
+	
+}
+
+#cards {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    justify-content: center;
+	gap: 35px;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-right: 4%;
+}
+
+@keyframes slideInRight {
+    from {
+        transform: translateX(100vw);
+		opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+		opacity: 1;
+    }
+}
+.image-container.animate-right {
+    animation: slideInRight 0.65s ease-out forwards;
+	animation-delay: 0.1s;
+}
+
+.image-container,
+.title-container,
+.bio-container,
+.link-container 
+{
+	transform: translateX(100vw);
+	opacity: 0;
+	will-change: transform, opacity;
+}
+
+.title-container.animate-right {
+    animation: slideInRight 0.65s ease-out forwards;
+	animation-delay: 0.12s;
+}
+
+.bio-container.animate-right {
+    animation: slideInRight 0.65s ease-out forwards;
+	animation-delay: 0.15s;
+}
+
+.link-container.animate-right {
+    animation: slideInRight 0.65s ease-out forwards;
+	animation-delay: 0.2s;
+}
+
+#artistpage {
+	display: flex;
+}
+
+::-webkit-scrollbar {
+  width: 18px; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(235, 115, 17, 0.8); 
+  border-radius: 10px; 
+}
+
+::-webkit-scrollbar-track {
+	background: rgba(245, 187, 35, 0.8);
+	border: 3px solid rgba(235, 115, 17, 0.8);
+	border-radius: 10px; 
+}
+
+.biocard {
+	float: left;
+	margin: 5%;
+	margin-left: 3%;
+	margin-top: 2%;
+	width: 27.5%;
+	min-width: 250px;
+	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.biotitle,
+.biotext {
+	color: black;
+}
+
+.biotext {
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+.biotitle {
+	margin-top: 5%;
+}
+
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 20px;
+	gap: 20px;
+	margin-top: 7.5%;
+}
+
+.Links {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+		font-size: 1.9em;
+}
+
+@media (max-width: 600px) {
+.biocard {
+	float: none;
+	width: 70%;
+	max-width: 300px;
+	height: auto;
+	margin-left: 17.5%;
+	margin-top: 10%;
+}
+
+.Links {
+	margin-left: 6%;
+}
+
+.biotitle {
+	margin-left: 5%;
+	margin-top: 10%;
+	margin-bottom: -4%;
+}
+
+.back {
+	display: none;
+}
+}
+
+.back {
+	transform: scale(0.7);
+	position: fixed;
+	right: 2%;
+	bottom: 3%;
+	z-index: 1;
+}
+
+.back:hover {
+Transform: scale(0.8);
+Transform-origin: center;
+}
